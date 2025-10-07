@@ -2,38 +2,56 @@
 
 # 🎓 IITMNexus
 
-*All-in-one digital hub for the IIT Madras BS community*
+*Your all-in-one digital hub for the IIT Madras BS community*
 
-![Status](https://img.shields.io/badge/status-in%20development-orange?style=flat-square)
-![Platform](https://img.shields.io/badge/platform-web-blue?style=flat-square)
+[![Status](https://img.shields.io/badge/status-in%20development-orange?style=for-the-badge)](https://github.com)
+[![Platform](https://img.shields.io/badge/platform-web-blue?style=for-the-badge)](https://github.com)
+[![Community](https://img.shields.io/badge/community-IITM%20BS-success?style=for-the-badge)](https://github.com)
 
 </div>
 
 ---
 
-## About
+## 📖 About
 
-**IITMNexus** is the next-generation alternative to AceGrade, centralizing everything IITM BS students need in one place.
+**IITMNexus** is designed as the next-generation alternative to tools like AceGrade, centralizing everything students need in one place.
 
-Currently under active development.
+Currently under **active development** to serve the IIT Madras BS Data Science community.
 
-## Features
+<br>
 
-📚 **PYQs & Notes** — Organized course materials  
-🧠 **Mock Tests** — Interactive practice modules  
-🧮 **OPPE Playground** — Coding environment for exam prep  
-🎥 **Lecture Library** — Curated videos and playlists  
-📊 **Grade Tools** — CGPA calculator and predictor  
-🔗 **Community Links** — Official repos and resources  
-📰 **Notifications** — Never miss important updates
+## ✨ Key Features
 
-## Vision
+**📚 Previous Year Questions & Notes** — Organized course materials and question papers
 
-To become the one-stop platform for IITM BS students—blending academics, productivity, and community in a single ecosystem.
+**🧠 Mock Tests & Practice Portal** — Interactive exams with practice modules
+
+**🧮 OPPE Playground** — Dedicated coding environment for exam prep
+
+**🎥 Lecture Library** — Curated lectures and learning videos
+
+**📊 CGPA & Grade Predictor** — Track and forecast your performance
+
+**🔗 Community Hub** — Official repositories and student projects
+
+**📰 Updates & Notifications** — Stay informed on announcements and deadlines
+
+<br>
+
+## 🎯 Vision
+
+> **To become the one-stop platform for IITM BS students**  
+> *Blending academics, productivity tools, and community in a single ecosystem*
+
+<br>
 
 ---
 
 <div align="center">
-<sub>Built with ❤️ for the IIT Madras BS Data Science community</sub>
+
+**Built with ❤️ by students, for students**
+
+*IIT Madras BS Data Science Community*
+
 </div>
 

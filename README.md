@@ -5,7 +5,7 @@
 ### *Your All-in-One Digital Hub for IIT Madras BS Community*
 
 <p>
-  <strong>IITMNexus</strong> is a next-generation platform built for IIT Madras BS students—centralizing academics, community resources, and productivity tools in one seamless ecosystem. Currently under active development as a modern alternative to AceGrade.
+  <strong>IITMNexus</strong> is a next-generation platform built for IIT Madras BS students—centralizing academics, community resources, and productivity tools in one seamless ecosystem. Currently under active development as a modern alternative to AceGrade & Quizspace.
 </p>
 
 <br>

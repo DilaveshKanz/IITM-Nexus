@@ -87,13 +87,7 @@
 
 <div style="height: 1px; background: #d0d7de; margin: 32px 0;"></div>
 
-<!-- Contributing Section -->
-<div style="margin-bottom: 40px;">
-  <h2 style="font-size: 1.5em; font-weight: 600; margin-bottom: 16px;">Contributing</h2>
-  <p style="font-size: 1em; line-height: 1.6; color: #24292f; margin: 0;">
-    Contributions are welcome! Feel free to open issues or submit pull requests.
-  </p>
-</div>
+
 
 <div style="height: 1px; background: #d0d7de; margin: 32px 0;"></div>
 

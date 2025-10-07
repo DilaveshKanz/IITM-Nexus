@@ -14,7 +14,7 @@
 
 ## 📖 About
 
-**IITMNexus** is designed as the next-generation alternative to tools like AceGrade, centralizing everything students need in one place.
+**IITMNexus** is designed as the next-generation alternative to tools like AceGrade & Quizspace, centralizing everything students need in one place.
 
 Currently under **active development** to serve the IIT Madras BS Data Science community.
 
